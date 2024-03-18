@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"test","l":"AssertArrayEqualsTest"},{"p":"test","l":"TestAssertions"},{"p":"test","l":"TestRunner"}];updateSearchResults();
